@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Testing App</string>
+    <string name="my_string1">Hello World App</string>
+    <string name="my_string2">This is my Hello World App using Android Studio. This is just meant for understanding purpose.</string>
+</resources>
